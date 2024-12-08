@@ -26,7 +26,7 @@ import net.minecraft.world.World;
 import net.minecraft.world.event.GameEvent;
 import net.minecraft.world.event.GameEvent.Emitter;
 
-public class SyHoe extends  {
+public class SyHoe extends MiningToolItem  {
     protected static final Map<Block, Pair<Predicate<ItemUsageContext>, Consumer<ItemUsageContext>>> TILLING_ACTIONS;
 
     public SyHoe(ToolMaterial material, int attackDamage, float attackSpeed, Item.Settings settings) {
