@@ -1,8 +1,8 @@
-// 1.20.4	2024-12-08T15:00:49.3779295	Stuff Mod/Block Loot Tables
+// 1.20.4	2024-12-08T16:28:16.0488002	Stuff Mod/Block Loot Tables
 010eb69b50d5639847df44734dd828c1e5727ba2 data\stuffmod\loot_tables\blocks\icee_void_wall.json
 be6a2615c184f951e7bf843086bfeec9776042a8 data\stuffmod\loot_tables\blocks\firey_void_wood.json
-9a8bd0678a00be7c3aa40355ece7fcea5b9d5cf8 data\stuffmod\loot_tables\blocks\enderite_ore.json
 f00c405d39cebad2284c769988a36c55fd64c0f0 data\stuffmod\loot_tables\blocks\firey_void_trapdoor.json
+9a8bd0678a00be7c3aa40355ece7fcea5b9d5cf8 data\stuffmod\loot_tables\blocks\enderite_ore.json
 7575dbc6c762063106fa7d6e6c1742cd4f4fdc54 data\stuffmod\loot_tables\blocks\icee_void_pressure_plate.json
 da781a1754a356383f6cde91c21f0e883ca499ed data\stuffmod\loot_tables\blocks\icee_void_leaves.json
 8cae667624378da35807dfc7b43027622bd63829 data\stuffmod\loot_tables\blocks\icee_void_door.json

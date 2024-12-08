@@ -19,6 +19,7 @@ public class ModFoodComponents {
             .statusEffect(new StatusEffectInstance(StatusEffects.SATURATION, 2400, 3), 1.0f)
             .alwaysEdible().build();
     public static final FoodComponent CHOKLETCHIP_COOKIE = new FoodComponent.Builder().hunger(11).saturationModifier(1.0f)
+            .statusEffect(new StatusEffectInstance(StatusEffects.SPEED, 10,2),1.0f)
             .build();
 
 

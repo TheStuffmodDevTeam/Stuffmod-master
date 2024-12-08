@@ -1,13 +1,14 @@
 package net.hacker.stuffmod.item;
 
+import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
+import net.fabricmc.fabric.api.tag.convention.v1.ConventionalEnchantmentTags;
 import net.hacker.stuffmod.StuffMod;
-import net.hacker.stuffmod.item.custom.EEEEMadaliean;
-import net.hacker.stuffmod.item.custom.MetalDetectorItemT1;
-import net.hacker.stuffmod.item.custom.MetalDetectorItemT2;
-import net.hacker.stuffmod.item.custom.MetalDetectorItemT3;
+import net.hacker.stuffmod.item.custom.*;
+import net.minecraft.enchantment.Enchantment;
+import net.minecraft.enchantment.EnchantmentTarget;
 import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -23,6 +24,7 @@ public class ModItems {
     public static final Item ENDERITE_INGOT = registerItem("enderite_ingot", new Item(new FabricItemSettings()));
     public static final Item ENDERITE = registerItem("enderite", new Item(new FabricItemSettings()));
     public static final Item EEEEAPPLE = registerItem("eeee_apple", new Item(new FabricItemSettings().food(ModFoodComponents.EEEEAPPLE)));
+    public static final Item CHOKLETCHIP_COOKIE = registerItem("chokletchip_cookie", new Item(new FabricItemSettings().food(ModFoodComponents.CHOKLETCHIP_COOKIE)));
 
 
     public static final Item EEEE_MADALIEAN = registerItem("eeee_madaliean",
@@ -46,7 +48,8 @@ public class ModItems {
     public static final Item EEEE_SWORD = registerItem("eeee_sword", new SwordItem(ModToolMaterial.EEEE, 10, 6f, new FabricItemSettings()));
     public static final Item EEEE_SHOVEL = registerItem("eeee_shovel", new ShovelItem(ModToolMaterial.EEEE, 1f, 3f, new FabricItemSettings()));
     public static final Item EEEE_HOE = registerItem("eeee_hoe", new HoeItem(ModToolMaterial.EEEE, 0, 3f, new FabricItemSettings()));
-    public static final Item EEEE_SCYTHE = registerItem("eeee_scythe", new SwordItem(ModToolMaterial.EEEE, 16, 2f, new FabricItemSettings()));
+    public static final Item EEEE_SCYTHE = registerItem("eeee_scythe", new HoeItem(ModToolMaterial.EEEE, 16, 2f, (new FabricItemSettings().fireproof())));
+
 
     public static final Item ENDERITE_AXE = registerItem("enderite_axe", new AxeItem(ModToolMaterial.ENDERITE, 8f, 2f, new FabricItemSettings()));
     public static final Item ENDERITE_PICKAXE = registerItem("enderite_pickaxe", new PickaxeItem(ModToolMaterial.ENDERITE, 5, 2f, new FabricItemSettings()));
@@ -86,6 +89,8 @@ public class ModItems {
             new ArmorItem(ModArmorMaterials.ENDERITE, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
     public static final Item ENDERITE_BOOTS = registerItem("enderite_boots",
             new ArmorItem(ModArmorMaterials.ENDERITE, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+
+
 
     private static void additemstoingredentgroup(FabricItemGroupEntries entries) {
         entries.add(EEEE);
