@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "stuffmod:block/firey_void_sapling"
+  }
+}

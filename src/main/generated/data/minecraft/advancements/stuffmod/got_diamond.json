@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:stuffmod/root",
+  "criteria": {
+    "got_diamond": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stuffmod:diamond_rod"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": "Make a diamond rod",
+    "icon": {
+      "item": "stuffmod:diamond_rod"
+    },
+    "title": "The Longer The Better"
+  },
+  "requirements": [
+    [
+      "got_diamond"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

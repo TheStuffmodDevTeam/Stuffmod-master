@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_trapdoor_bottom",
+  "textures": {
+    "texture": "stuffmod:block/firey_void_trapdoor"
+  }
+}

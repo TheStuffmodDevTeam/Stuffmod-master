@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "stuffmod:eeee_block",
+    "stuffmod:deepslate_eeee_ore",
+    "stuffmod:eeee_ingot_block",
+    "stuffmod:eeee_ore",
+    "stuffmod:enderite_ore",
+    "stuffmod:enderite_ingot_block",
+    "stuffmod:enderite_block"
+  ]
+}

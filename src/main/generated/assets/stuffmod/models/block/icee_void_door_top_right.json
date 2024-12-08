@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right",
+  "textures": {
+    "bottom": "stuffmod:block/icee_void_door_bottom",
+    "top": "stuffmod:block/icee_void_door_top"
+  }
+}

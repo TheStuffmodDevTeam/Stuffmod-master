@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:stuffmod/got_thehiddenone",
+  "criteria": {
+    "got_the_hidden_one_two": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:totem_of_undying"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": "find the hidden item in the hidden items (Its really OP) think the parent advancement",
+    "icon": {
+      "item": "stuffmod:eeee_chestplate",
+      "nbt": "{Damage:0}"
+    },
+    "title": "Get 5 totems in a stack"
+  },
+  "requirements": [
+    [
+      "got_the_hidden_one_two"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

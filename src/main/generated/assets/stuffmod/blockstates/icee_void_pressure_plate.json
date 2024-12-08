@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "stuffmod:block/icee_void_pressure_plate"
+    },
+    "powered=true": {
+      "model": "stuffmod:block/icee_void_pressure_plate_down"
+    }
+  }
+}

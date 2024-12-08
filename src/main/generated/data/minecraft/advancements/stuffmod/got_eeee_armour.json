@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:stuffmod/got_eeee_tools",
+  "criteria": {
+    "got_eeee_armour": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stuffmod:eeee_helmet"
+            ]
+          },
+          {
+            "items": [
+              "stuffmod:eeee_chestplate"
+            ]
+          },
+          {
+            "items": [
+              "stuffmod:eeee_leggings"
+            ]
+          },
+          {
+            "items": [
+              "stuffmod:eeee_boots"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": "Get a full st of glory filled EEEE armour",
+    "icon": {
+      "item": "stuffmod:eeee_chestplate",
+      "nbt": "{Damage:0}"
+    },
+    "title": "Super Armour"
+  },
+  "requirements": [
+    [
+      "got_eeee_armour"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

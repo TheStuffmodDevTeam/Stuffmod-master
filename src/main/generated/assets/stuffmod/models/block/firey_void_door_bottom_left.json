@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "stuffmod:block/firey_void_door_bottom",
+    "top": "stuffmod:block/firey_void_door_top"
+  }
+}

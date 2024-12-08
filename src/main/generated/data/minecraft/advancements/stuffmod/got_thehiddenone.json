@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:stuffmod/got_diamond",
+  "criteria": {
+    "got_the_hidden_one": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stuffmod:thehiddenone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": "find the hidden item (Its really OP) think villagers",
+    "icon": {
+      "item": "stuffmod:eeee_chestplate",
+      "nbt": "{Damage:0}"
+    },
+    "title": "Hidden In Plane Sight"
+  },
+  "requirements": [
+    [
+      "got_the_hidden_one"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:totem_of_undying"
+    ]
+  },
+  "sends_telemetry_event": true
+}

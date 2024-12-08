@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:stuffmod/root",
+  "criteria": {
+    "got_eeee_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stuffmod:eeee_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": "Obtain an EEEE ingot",
+    "icon": {
+      "item": "stuffmod:eeee_ingot"
+    },
+    "title": "Acquire Superwere"
+  },
+  "requirements": [
+    [
+      "got_eeee_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:eeee_scythe"
+    ]
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "stuffmod:diamond_rod"
+    },
+    "X": {
+      "item": "stuffmod:eeee"
+    }
+  },
+  "pattern": [
+    "  S",
+    " SX",
+    "S  "
+  ],
+  "result": {
+    "item": "stuffmod:metal_detector_3"
+  }
+}

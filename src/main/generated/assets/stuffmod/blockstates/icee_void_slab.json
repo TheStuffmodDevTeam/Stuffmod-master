@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stuffmod:block/icee_void_slab"
+    },
+    "type=double": {
+      "model": "stuffmod:block/icee_void_planks"
+    },
+    "type=top": {
+      "model": "stuffmod:block/icee_void_slab_top"
+    }
+  }
+}

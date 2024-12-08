@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:netherite_block"
+    },
+    "X": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "Y": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "YXY",
+    "XCX",
+    "YXY"
+  ],
+  "result": {
+    "item": "stuffmod:dealer_table"
+  }
+}

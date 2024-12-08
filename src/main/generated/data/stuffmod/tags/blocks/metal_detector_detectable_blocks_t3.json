@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:diamond_ores",
+    "stuffmod:eeee_ore",
+    "stuffmod:deepslate_eeee_ore"
+  ]
+}

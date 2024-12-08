@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "stuffmod:block/stripped_firey_void_log_top",
+    "side": "stuffmod:block/stripped_firey_void_log"
+  }
+}

@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "stuffmod",
+	"version": "${version}",
+	"name": "Stuff Mod",
+	"description": "This adds random things to the game that are pointless (what mojang is doing)",
+	"authors": [
+		"Hacker_33"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/stuffmod/textures/mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.hacker.stuffmod.StuffMod"
+		],
+		"client": [
+			"net.hacker.stuffmod.StuffModClient"
+		],
+		"fabric-datagen": [
+			"net.hacker.stuffmod.StuffModDataGenerator"
+		],
+		"terrablender": [
+			"net.hacker.stuffmod.world.biome.ModTerrablenderAPI"
+		]
+	},
+	"mixins": [
+		"stuffmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

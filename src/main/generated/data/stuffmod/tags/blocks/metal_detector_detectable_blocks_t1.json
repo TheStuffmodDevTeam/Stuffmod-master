@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:iron_ores",
+    "#minecraft:coal_ores",
+    "stuffmod:laoc_ore",
+    "stuffmod:deepslate_laoc_ore",
+    "#minecraft:copper_ores"
+  ]
+}

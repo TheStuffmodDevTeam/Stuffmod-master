@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_trim",
+  "template": {
+    "item": "stuffmod:enderite_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "stuffmod:netherite_chestplate"
+  },
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "result": {
+    "item": "stuffmod:enderite_chestplate"
+  }
+}

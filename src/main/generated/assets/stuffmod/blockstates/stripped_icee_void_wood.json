@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "stuffmod:block/stripped_icee_void_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "stuffmod:block/stripped_icee_void_wood"
+    },
+    "axis=z": {
+      "model": "stuffmod:block/stripped_icee_void_wood",
+      "x": 90
+    }
+  }
+}

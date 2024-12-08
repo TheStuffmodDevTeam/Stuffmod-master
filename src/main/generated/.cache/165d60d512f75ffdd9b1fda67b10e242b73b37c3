@@ -1,0 +1,15 @@
+// 1.20.4	2024-12-08T15:00:49.3769221	Stuff Mod/Tags for minecraft:block
+ed47ac7496960e2df7085731544b9f278a4f5d7c data\minecraft\tags\blocks\fence_gates.json
+f9ad5f84662545a7dd67f9488649d0512ed6b092 data\fabric\tags\blocks\needs_tool_level_4.json
+cb610bcf7d33e1c68ed6eec4edd00dffc7d6832e data\stuffmod\tags\blocks\metal_detector_detectable_blocks_t1.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_diamond_tool.json
+a6d06d8e5c980d748f782c794207578774122623 data\minecraft\tags\blocks\fences.json
+d6bad7ddef2a6533dd5b1b00b1ffc834186715f4 data\minecraft\tags\blocks\logs_that_burn.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_iron_tool.json
+933c073f7a4a70e39a3e5e0d8521752fe8a9c7a3 data\stuffmod\tags\blocks\metal_detector_detectable_blocks_t3.json
+fbea15d740cc073cfcb43772270f7295a4b76685 data\stuffmod\tags\blocks\metal_detector_detectable_blocks_t2.json
+1fa7a9ba1a5fa4a1fa404b0612635e1db65c6658 data\minecraft\tags\blocks\mineable\pickaxe.json
+d4df770d6608de5689d3e94076412332b1e9fa88 data\minecraft\tags\blocks\walls.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_stone_tool.json
+ae38b126e7949383a6ba4c2432465c802b58ef8e data\minecraft\tags\blocks\mineable\axe.json
+8518b2b3ec6378889b8fa8c385cb84400eb2822c data\fabric\tags\blocks\needs_tool_level_5.json

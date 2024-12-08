@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "stuffmod:stripped_firey_void_log",
+    "stuffmod:stripped_firey_void_wood",
+    "stuffmod:firey_void_planks",
+    "stuffmod:firey_void_log",
+    "stuffmod:firey_void_wood",
+    "stuffmod:firey_void_slab",
+    "stuffmod:firey_void_stairs",
+    "stuffmod:firey_void_door",
+    "stuffmod:firey_void_trapdoor",
+    "stuffmod:firey_void_button",
+    "stuffmod:firey_void_fence",
+    "stuffmod:firey_void_fence_gate",
+    "stuffmod:firey_void_pressure_plate"
+  ]
+}

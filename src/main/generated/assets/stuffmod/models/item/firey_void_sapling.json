@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "stuffmod:block/firey_void_sapling"
+  }
+}

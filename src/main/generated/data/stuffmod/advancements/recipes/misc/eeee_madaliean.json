@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_eeee": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stuffmod:eeee"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_eeee_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stuffmod:eeee_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:eeee_madaliean"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_eeee",
+      "has_eeee_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:eeee_madaliean"
+    ]
+  }
+}

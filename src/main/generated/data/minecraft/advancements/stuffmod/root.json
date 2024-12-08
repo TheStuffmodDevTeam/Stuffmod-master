@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "got_eeee": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stuffmod:eeee"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "background": "stuffmod:textures/gui/advancements/backgrounds/eeee.png",
+    "description": "Obtain some EEEE",
+    "icon": {
+      "item": "stuffmod:eeee"
+    },
+    "title": "The Power Of EEEE"
+  },
+  "requirements": [
+    [
+      "got_eeee"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "stuffmod:diamond_rod"
+    ]
+  },
+  "sends_telemetry_event": true
+}

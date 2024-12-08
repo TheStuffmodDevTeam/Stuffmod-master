@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:stuffmod/got_eeee_ingot",
+  "criteria": {
+    "got_eeee_tools": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stuffmod:eeee_shovel"
+            ]
+          },
+          {
+            "items": [
+              "stuffmod:eeee_sword"
+            ]
+          },
+          {
+            "items": [
+              "stuffmod:eeee_axe"
+            ]
+          },
+          {
+            "items": [
+              "stuffmod:eeee_pickaxe"
+            ]
+          },
+          {
+            "items": [
+              "stuffmod:eeee_hoe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": "Get a full set of glory filled EEEE tools",
+    "icon": {
+      "item": "stuffmod:eeee_axe",
+      "nbt": "{Damage:0}"
+    },
+    "title": "Super Tools"
+  },
+  "requirements": [
+    [
+      "got_eeee_tools"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:eeee_boots"
+    ]
+  },
+  "sends_telemetry_event": true
+}
