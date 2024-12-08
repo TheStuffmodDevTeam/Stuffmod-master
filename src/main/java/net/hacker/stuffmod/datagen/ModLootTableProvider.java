@@ -28,7 +28,8 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.FIREY_VOID_WOOD);
         addDrop(ModBlocks.STRIPPED_FIREY_VOID_LOG);
         addDrop(ModBlocks.STRIPPED_FIREY_VOID_WOOD);
-        addDrop(ModBlocks.FIREY_VOID_LEAVES, leavesDrops(ModBlocks.FIREY_VOID_LEAVES, ModBlocks.FIREY_VOID_SAPLING, 0.005f));
+        addDrop(ModBlocks.FIREY_VOID_SAPLING);
+        addDrop(ModBlocks.FIREY_VOID_LEAVES, leavesDrops(ModBlocks.FIREY_VOID_LEAVES, ModBlocks.FIREY_VOID_SAPLING, 0.5f));
 
         addDrop(ModBlocks.FIREY_VOID_TRAPDOOR);
         addDrop(ModBlocks.FIREY_VOID_STAIRS);
@@ -46,7 +47,8 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.ICEE_VOID_WOOD);
         addDrop(ModBlocks.STRIPPED_ICEE_VOID_LOG);
         addDrop(ModBlocks.STRIPPED_ICEE_VOID_WOOD);
-        addDrop(ModBlocks.ICEE_VOID_LEAVES, leavesDrops(ModBlocks.ICEE_VOID_LEAVES, ModBlocks.ICEE_VOID_SAPLING, 0.005f)); //TODO
+        addDrop(ModBlocks.ICEE_VOID_SAPLING);
+        addDrop(ModBlocks.ICEE_VOID_LEAVES, leavesDrops(ModBlocks.ICEE_VOID_LEAVES, ModBlocks.ICEE_VOID_SAPLING, 0.5f));
 
         addDrop(ModBlocks.ICEE_VOID_TRAPDOOR);
         addDrop(ModBlocks.ICEE_VOID_STAIRS);

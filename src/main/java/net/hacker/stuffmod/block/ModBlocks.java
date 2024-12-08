@@ -61,7 +61,7 @@ public class ModBlocks {
     public static final Block FIREY_VOID_LEAVES = registerBlock("firey_void_leaves",
             new Block(FabricBlockSettings.copyOf(Blocks.OAK_LEAVES).strength(2f).nonOpaque()));
     public static final Block FIREY_VOID_SAPLING = registerBlock("firey_void_sapling",
-            new SaplingBlock(ModSaplingGenorators.VOIDFIREY, FabricBlockSettings.copyOf(Blocks.OAK_SAPLING).strength(2f).nonOpaque()));
+            new SaplingBlock(ModSaplingGenorators.VOIDFIREY, FabricBlockSettings.copyOf(Blocks.OAK_SAPLING).strength(0f).nonOpaque()));
 
     public static final Block ICEE_VOID_LOG = registerBlock("icee_void_log",
             new PillarBlock(FabricBlockSettings.copyOf(Blocks.OAK_LOG).strength(2f)));
@@ -76,7 +76,7 @@ public class ModBlocks {
     public static final Block ICEE_VOID_LEAVES = registerBlock("icee_void_leaves",
             new Block(FabricBlockSettings.copyOf(Blocks.OAK_LEAVES).strength(2f).nonOpaque()));
     public static final Block ICEE_VOID_SAPLING = registerBlock("icee_void_sapling",
-            new SaplingBlock(ModSaplingGenorators.VOIDICEE, FabricBlockSettings.copyOf(Blocks.OAK_SAPLING).strength(2f).nonOpaque()));
+            new SaplingBlock(ModSaplingGenorators.VOIDICEE, FabricBlockSettings.copyOf(Blocks.OAK_SAPLING).strength(0f).nonOpaque()));
 
 
     //NON BLOCK BLOCKS
