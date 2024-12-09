@@ -1,1 +1,13 @@
 ewadsdfascsdfradfsgtradfsdgsdfasherfragersr
+Devs: V0IDK and Hacker_33
+Textures: none :(
+Read
+The
+Text
+To
+Find
+Out
+The
+Hidden
+Item
+/give stuffmod:thehiddenone
