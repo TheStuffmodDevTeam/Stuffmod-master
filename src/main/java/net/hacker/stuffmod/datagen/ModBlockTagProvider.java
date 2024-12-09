@@ -103,5 +103,10 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.FIREY_VOID_FENCE_GATE);
         getOrCreateTagBuilder(BlockTags.WALLS)
                 .add(ModBlocks.FIREY_VOID_WALL);
+
+
+        getOrCreateTagBuilder(BlockTags.HOE_MINEABLE)
+                .add(ModBlocks.FIREY_VOID_LEAVES)
+                .add(ModBlocks.ICEE_VOID_LEAVES);
     }
 }
