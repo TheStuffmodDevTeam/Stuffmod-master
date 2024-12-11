@@ -326,9 +326,11 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .offerTo(exporter, new Identifier(getRecipeName(ModItems.EEEE_BOOTS)));
 
         ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.THEHIDDENONE, 5)
-                .pattern("S")
-                .input('S', Items.EMERALD)
-                .criterion(hasItem(Items.EMERALD), conditionsFromItem(Items.EMERALD))
+                .pattern("S S")
+                .pattern("SSS")
+                .pattern("S S")
+                .input('S', Items.EMERALD_BLOCK)
+                .criterion(hasItem(Items.EMERALD_BLOCK), conditionsFromItem(Items.EMERALD_BLOCK))
                 .offerTo(exporter, new Identifier(getRecipeName(ModItems.THEHIDDENONE)));
 
         ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, Items.TOTEM_OF_UNDYING, 5)

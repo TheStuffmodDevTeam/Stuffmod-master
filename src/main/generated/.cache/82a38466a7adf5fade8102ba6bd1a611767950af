@@ -1,4 +1,4 @@
-// 1.20.4	2024-12-08T20:01:37.7662544	Stuff Mod/Recipes
+// 1.20.4	2024-12-09T16:44:27.1503624	Stuff Mod/Recipes
 bce5c1a469d808e42251736af1cd525300008d5d data\stuffmod\advancements\recipes\misc\enderite_ingot_from_smelting_enderite_ore.json
 273799fb6206d6e4161d41daba6920f9c0adf92e data\stuffmod\advancements\recipes\misc\metal_detector_1.json
 1268e9b1a853cdc2373edbbdbf3144ffc5e2f0f7 data\stuffmod\advancements\recipes\misc\emerald_pickaxe.json
@@ -19,7 +19,7 @@ cf3c1d210d0f8e9ceee456bb5a881798ed82ad67 data\stuffmod\recipes\eeee_ingot_from_b
 1f30d37201914458d8886fb4a95ccf99a7d99b28 data\stuffmod\recipes\icee_void_stairs.json
 3c19ae89aa28e3fb7fb8d1c066af2fa113993376 data\stuffmod\recipes\metal_detector_2.json
 adc855e9f264db40641974a9c98149592cd3db84 data\stuffmod\advancements\recipes\misc\eeee_ingot_from_smelting_thehiddenone.json
-51fe03e0f7556cb848c1144f07fddc212f45a61c data\stuffmod\advancements\recipes\misc\thehiddenone.json
+177bf0a97e10f263676d88b285fb11137f0ddd1f data\stuffmod\advancements\recipes\misc\thehiddenone.json
 eed13412460a7406594a7b30d001fe0fe574edac data\stuffmod\advancements\recipes\misc\emerald_sword.json
 5a7d160614ff60c2cd5dd360a82f2901fe9e391f data\stuffmod\recipes\firey_void_planks.json
 5451cecabf0703e96b05368b280e2e5591ff7ca9 data\stuffmod\advancements\recipes\redstone\icee_void_door.json
@@ -88,7 +88,7 @@ f59d92758a985c4bc6c3ee090cabe8799099800c data\stuffmod\advancements\recipes\misc
 6f4864b3543a3e3c06cedefd52d4bea187069202 data\stuffmod\advancements\recipes\misc\eeee_scythe.json
 88bffbae6e7bfc915517fcc8f61b8a84f8a1e2d8 data\stuffmod\recipes\eeee_ingot_from_smelting_eeee_ore.json
 121c29b1c3b81cfdaa8ca1e7fbd0fcc25b02a21e data\stuffmod\advancements\recipes\misc\enderite_ingot_from_smelting_enderite.json
-d9e1d738663f915d57f0b59fbed6f52dde2e913a data\stuffmod\recipes\thehiddenone.json
+91108043693dcfc1186907e3c72a125508f0442c data\stuffmod\recipes\thehiddenone.json
 dd95200b25fe715ffd2d180533d3495a4b7b2878 data\stuffmod\advancements\recipes\misc\enderite_ingot_from_blasting_enderite_ore.json
 6ea3f5273823f7300bb13167adab8509025927b9 data\stuffmod\advancements\recipes\misc\eeee_ingot_from_blasting_eeee_ore.json
 7e1613b40ceb3353704fbd30e132a7522fb6ea60 data\stuffmod\recipes\eeee_ingot_from_blasting_eeee_ore.json
@@ -108,8 +108,8 @@ fefd33f1a5dbdc8178f19730d419337997b4fc0f data\stuffmod\advancements\recipes\buil
 fbed6748046a599110e07c57268cac98ba569481 data\stuffmod\recipes\enderite.json
 68ea1a76acd51c9b96664abc0ea0485904df038c data\stuffmod\recipes\eeee_shovel.json
 241e70e0c1ddb31b247f244c76b26ae3d6aa8586 data\stuffmod\recipes\diamond_rod.json
-5e509fa70bc510ba861c13e0dcb1696ad4287f16 data\stuffmod\advancements\recipes\decorations\enderite_block.json
 59b5fd1a6209f38f12013f365f120ee56248b1c5 data\stuffmod\recipes\laoc.json
+5e509fa70bc510ba861c13e0dcb1696ad4287f16 data\stuffmod\advancements\recipes\decorations\enderite_block.json
 137a3c73ce4469f3722e3bda19a7832fb574c8a3 data\stuffmod\advancements\recipes\misc\firey_void_planks.json
 b00787538334e76b654c0e084406f4a5e0277553 data\stuffmod\advancements\recipes\misc\eeee_axe.json
 701f6c49b2e30efa23f0ebe7c8d72c784dcf1f55 data\stuffmod\advancements\recipes\misc\eeee_pickaxe.json

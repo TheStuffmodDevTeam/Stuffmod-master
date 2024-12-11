@@ -3,11 +3,13 @@
   "category": "misc",
   "key": {
     "S": {
-      "item": "minecraft:emerald"
+      "item": "minecraft:emerald_block"
     }
   },
   "pattern": [
-    "S"
+    "S S",
+    "SSS",
+    "S S"
   ],
   "result": {
     "count": 5,

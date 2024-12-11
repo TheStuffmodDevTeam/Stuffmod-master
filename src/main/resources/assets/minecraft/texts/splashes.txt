@@ -11,3 +11,4 @@ The
 Hidden
 Item
 /give stuffmod:thehiddenone
+a random fact is that this code: private void sendEEEEinChat(PlayerEntity player) {player.sendMessage(Text.literal("EEEE"), false);} send a chat message to the player who trigger the action

@@ -1,4 +1,4 @@
-// 1.20.4	2024-12-08T20:01:37.7737634	Stuff Mod/Block Loot Tables
+// 1.20.4	2024-12-09T16:44:27.173388	Stuff Mod/Block Loot Tables
 010eb69b50d5639847df44734dd828c1e5727ba2 data\stuffmod\loot_tables\blocks\icee_void_wall.json
 be6a2615c184f951e7bf843086bfeec9776042a8 data\stuffmod\loot_tables\blocks\firey_void_wood.json
 f00c405d39cebad2284c769988a36c55fd64c0f0 data\stuffmod\loot_tables\blocks\firey_void_trapdoor.json
@@ -8,8 +8,8 @@ f00c405d39cebad2284c769988a36c55fd64c0f0 data\stuffmod\loot_tables\blocks\firey_
 8cae667624378da35807dfc7b43027622bd63829 data\stuffmod\loot_tables\blocks\icee_void_door.json
 07b9da483ec33ba98921273f09a02967b08f22c6 data\stuffmod\loot_tables\blocks\stripped_firey_void_log.json
 174a60c74237de93b08a84a158b8d010b88acca7 data\stuffmod\loot_tables\blocks\firey_void_leaves.json
-a23d4a7d21be6d0748c14fa8747110b616b4d8ed data\stuffmod\loot_tables\blocks\firey_void_log.json
 4e398eaf9a25ec3dfe1b6cc143ab311ff22955f1 data\stuffmod\loot_tables\blocks\laoc_ore.json
+a23d4a7d21be6d0748c14fa8747110b616b4d8ed data\stuffmod\loot_tables\blocks\firey_void_log.json
 0a773af85db9111fa4a5b8fb46ad3f2a3c261e57 data\stuffmod\loot_tables\blocks\stripped_icee_void_log.json
 e5e6787b834129b7e6ee4bec086a43dc7a8f7dae data\stuffmod\loot_tables\blocks\icee_void_slab.json
 0a5dfed17eb281500a2930c51a32ac2d0d9a071e data\stuffmod\loot_tables\blocks\firey_void_fence.json
@@ -32,8 +32,8 @@ b653909db6e18e7982734cfd35af6cefb95b1c45 data\stuffmod\loot_tables\blocks\icee_v
 92d02b1c73d8f7ce7808822dcc2550576a0ddc01 data\stuffmod\loot_tables\blocks\deepslate_laoc_ore.json
 dcc156247eeac4cc16345682a3d5af358e008ce5 data\stuffmod\loot_tables\blocks\stripped_firey_void_wood.json
 562b5efd3e083eb371ca662ad6733ab88d3fcea6 data\stuffmod\loot_tables\blocks\firey_void_slab.json
-9f335490858c41a6626bdefde55783338c826a08 data\stuffmod\loot_tables\blocks\firey_void_button.json
 af7f45507bbbf13cf77b5847931287dbb5e324a9 data\stuffmod\loot_tables\blocks\icee_void_stairs.json
+9f335490858c41a6626bdefde55783338c826a08 data\stuffmod\loot_tables\blocks\firey_void_button.json
 122dc1d5a794c2f78792402a1629f7ab3cdac9dd data\stuffmod\loot_tables\blocks\icee_void_fence.json
 a7a7f7f592429fe6b5dc7974c7b7a2341536d31e data\stuffmod\loot_tables\blocks\firey_void_sapling.json
 ca41ade1f19e00f495b127d1013daadcc2452c1c data\stuffmod\loot_tables\blocks\firey_void_planks.json

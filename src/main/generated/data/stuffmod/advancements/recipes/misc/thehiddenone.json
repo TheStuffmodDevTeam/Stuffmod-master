@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_emerald": {
+    "has_emerald_block": {
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:emerald"
+              "minecraft:emerald_block"
             ]
           }
         ]
@@ -23,7 +23,7 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_emerald"
+      "has_emerald_block"
     ]
   ],
   "rewards": {
